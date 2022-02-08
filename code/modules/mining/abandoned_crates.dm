@@ -131,5 +131,5 @@
 	switch(loot)
 		if(1 to 100)
 			new /obj/item/slimecross/recurring/grey(src)
-			new /obj/item/stack/ore/mineral/plasma(1,3)
+			new /obj/item/stack/ore/mineral/plasma(src,3)
 	spawned_loot = TRUE
