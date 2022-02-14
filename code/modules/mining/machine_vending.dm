@@ -32,7 +32,7 @@
 		new /datum/data/mining_equipment("Jaunter",						/obj/item/wormhole_jaunter,											750),
 		new /datum/data/mining_equipment("Kinetic Crusher",				/obj/item/kinetic_crusher,											750),
 		new /datum/data/mining_equipment("Kinetic Accelerator",			/obj/item/gun/energy/kinetic_accelerator,							750),
-		new /datum/data/mining_equipment("Mining Scanner",				/obj/item/mining_scanner,											200),
+		new /datum/data/mining_equipment("Mining Scanner",				/obj/item/t_scanner/adv_mining_scanner/lesser,						200),
 		new /datum/data/mining_equipment("Advanced Mining Scanner",		/obj/item/t_scanner/adv_mining_scanner,								800),
 		new /datum/data/mining_equipment("Resonator",					/obj/item/resonator,												800),
 		new /datum/data/mining_equipment("Fulton Pack",					/obj/item/extraction_pack,											1000),
